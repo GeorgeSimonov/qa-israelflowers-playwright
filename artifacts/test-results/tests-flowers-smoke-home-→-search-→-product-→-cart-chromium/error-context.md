@@ -1,0 +1,2121 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e4]:
+      - generic [ref=e5]:
+        - img [ref=e9] [cursor=pointer]
+        - generic [ref=e13]:
+          - textbox [ref=e14]:
+            - /placeholder: Site search
+          - button [ref=e15] [cursor=pointer]:
+            - generic [ref=e16]: Search
+            - img [ref=e17]
+        - generic [ref=e19] [cursor=pointer]:
+          - generic [ref=e21]: Address
+          - generic [ref=e22]:
+            - img [ref=e23]
+            - generic [ref=e24]:
+              - button [ref=e25]:
+                - img [ref=e26]
+              - paragraph [ref=e27]: Enter a shipping address to see items shipped to it
+              - button [ref=e28]: Shipping address
+        - button [ref=e29] [cursor=pointer]:
+          - img [ref=e30]
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - button [ref=e33] [cursor=pointer]:
+            - img [ref=e34]
+          - link [ref=e35] [cursor=pointer]:
+            - /url: /categories
+            - text: Products
+          - link [ref=e36] [cursor=pointer]:
+            - /url: /stores
+            - text: Stores
+          - link [ref=e37] [cursor=pointer]:
+            - /url: /sale
+            - text: Sale
+          - link [ref=e38] [cursor=pointer]:
+            - /url: /subscription-order
+            - text: Subscription
+          - link [ref=e39] [cursor=pointer]:
+            - /url: /gift-cards
+            - text: Gift Card
+        - generic [ref=e40]:
+          - generic [ref=e41]: "For orders call:"
+          - link [ref=e42] [cursor=pointer]:
+            - /url: tel:+972585024853
+            - text: "+972585024853"
+    - generic [ref=e43]:
+      - generic [ref=e46]:
+        - heading [level=2] [ref=e47]: Popular Categories
+        - button [ref=e48] [cursor=pointer]
+        - button [ref=e49] [cursor=pointer]
+        - generic [ref=e51]:
+          - generic [ref=e53] [cursor=pointer]:
+            - link [ref=e54]:
+              - /url: /gift-sets
+              - img [ref=e55]
+            - link [ref=e56]:
+              - /url: /gift-sets
+              - text: Gift sets
+          - generic [ref=e58] [cursor=pointer]:
+            - link [ref=e59]:
+              - /url: /Wedding
+              - img [ref=e60]
+            - link [ref=e61]:
+              - /url: /Wedding
+              - text: Wedding
+          - generic [ref=e63] [cursor=pointer]:
+            - link [ref=e64]:
+              - /url: /Bridal-Bouquets
+              - img [ref=e65]
+            - link [ref=e66]:
+              - /url: /Bridal-Bouquets
+              - text: Bridal Bouquets
+          - generic [ref=e68] [cursor=pointer]:
+            - link [ref=e69]:
+              - /url: /fruit-sets
+              - img [ref=e70]
+            - link [ref=e71]:
+              - /url: /fruit-sets
+              - text: Fruit sets
+          - generic [ref=e73] [cursor=pointer]:
+            - link [ref=e74]:
+              - /url: /Flowers
+              - img [ref=e75]
+            - link [ref=e76]:
+              - /url: /Flowers
+              - text: Flowers
+          - generic [ref=e78] [cursor=pointer]:
+            - link [ref=e79]:
+              - /url: /Gifts-for-Birthday
+              - img [ref=e80]
+            - link [ref=e81]:
+              - /url: /Gifts-for-Birthday
+              - text: Gifts for Birthday
+          - generic [ref=e83] [cursor=pointer]:
+            - link [ref=e84]:
+              - /url: /pots-and-orchids
+              - img [ref=e85]
+            - link [ref=e86]:
+              - /url: /pots-and-orchids
+              - text: Pots and orchids
+          - generic [ref=e88] [cursor=pointer]:
+            - link [ref=e89]:
+              - /url: /flowers-in-a-box
+              - img [ref=e90]
+            - link [ref=e91]:
+              - /url: /flowers-in-a-box
+              - text: Flowers in a box
+          - generic [ref=e93] [cursor=pointer]:
+            - link [ref=e94]:
+              - /url: /roses
+              - img [ref=e95]
+            - link [ref=e96]:
+              - /url: /roses
+              - text: Roses
+          - generic [ref=e98] [cursor=pointer]:
+            - link [ref=e99]:
+              - /url: /gift-sets
+              - img [ref=e100]
+            - link [ref=e101]:
+              - /url: /gift-sets
+              - text: Gift sets
+          - generic [ref=e103] [cursor=pointer]:
+            - link [ref=e104]:
+              - /url: /Wedding
+              - img [ref=e105]
+            - link [ref=e106]:
+              - /url: /Wedding
+              - text: Wedding
+          - generic [ref=e108] [cursor=pointer]:
+            - link [ref=e109]:
+              - /url: /Bridal-Bouquets
+              - img [ref=e110]
+            - link [ref=e111]:
+              - /url: /Bridal-Bouquets
+              - text: Bridal Bouquets
+          - generic [ref=e113] [cursor=pointer]:
+            - link [ref=e114]:
+              - /url: /fruit-sets
+              - img [ref=e115]
+            - link [ref=e116]:
+              - /url: /fruit-sets
+              - text: Fruit sets
+          - generic [ref=e118] [cursor=pointer]:
+            - link [ref=e119]:
+              - /url: /Flowers
+              - img [ref=e120]
+            - link [ref=e121]:
+              - /url: /Flowers
+              - text: Flowers
+          - generic [ref=e123] [cursor=pointer]:
+            - link [ref=e124]:
+              - /url: /Gifts-for-Birthday
+              - img [ref=e125]
+            - link [ref=e126]:
+              - /url: /Gifts-for-Birthday
+              - text: Gifts for Birthday
+          - generic [ref=e128] [cursor=pointer]:
+            - link [ref=e129]:
+              - /url: /pots-and-orchids
+              - img [ref=e130]
+            - link [ref=e131]:
+              - /url: /pots-and-orchids
+              - text: Pots and orchids
+          - generic [ref=e133] [cursor=pointer]:
+            - link [ref=e134]:
+              - /url: /flowers-in-a-box
+              - img [ref=e135]
+            - link [ref=e136]:
+              - /url: /flowers-in-a-box
+              - text: Flowers in a box
+      - generic [ref=e138]:
+        - generic [ref=e140]:
+          - generic [ref=e143]:
+            - heading [level=2] [ref=e144]: Product of the Day
+            - generic [ref=e145]:
+              - link [ref=e147] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-Purim-Gifts/Romantic-bouquet
+                - img [ref=e148]
+              - generic [ref=e149]:
+                - heading [level=3] [ref=e150]: Romantic bouquet
+                - generic [ref=e151]:
+                  - generic [ref=e152]: Now on sale
+                  - generic [ref=e153]: ₪168
+                  - generic [ref=e154]: instead of ₪180
+                - button [ref=e155] [cursor=pointer]:
+                  - link [ref=e156]:
+                    - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-Purim-Gifts/Romantic-bouquet
+                    - text: Buy Product
+          - generic [ref=e158]:
+            - img [ref=e159]
+            - generic [ref=e160]:
+              - paragraph [ref=e161]: November Sale Up to 20% Off
+              - paragraph [ref=e162]: November Sale Up to 20% Off
+              - button [ref=e163] [cursor=pointer]:
+                - link [ref=e164]:
+                  - /url: /sale
+                  - text: For purchase
+          - generic [ref=e166]:
+            - img [ref=e167]
+            - generic [ref=e168]:
+              - paragraph [ref=e169]: Get a 5% discount on Gift Card purchases over 300
+              - paragraph [ref=e170]: You choose the amount, they choose the gift
+              - button [ref=e171] [cursor=pointer]:
+                - link [ref=e172]:
+                  - /url: /gift-cards
+                  - text: Purchase a Gift Card
+          - generic [ref=e174]:
+            - img [ref=e175]
+            - generic [ref=e176]:
+              - paragraph [ref=e177]: Regularly surprising
+              - paragraph [ref=e178]: Get 15% off a regular flower subscription
+              - button [ref=e179] [cursor=pointer]:
+                - link [ref=e180]:
+                  - /url: /subscription-order
+                  - text: To purchase a subscription
+          - generic [ref=e183]:
+            - heading [level=2] [ref=e184]: Product of the Day
+            - generic [ref=e185]:
+              - link [ref=e187] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-Purim-Gifts/Romantic-bouquet
+                - img [ref=e188]
+              - generic [ref=e189]:
+                - heading [level=3] [ref=e190]: Romantic bouquet
+                - generic [ref=e191]:
+                  - generic [ref=e192]: Now on sale
+                  - generic [ref=e193]: ₪168
+                  - generic [ref=e194]: instead of ₪180
+                - button [ref=e195] [cursor=pointer]:
+                  - link [ref=e196]:
+                    - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-Purim-Gifts/Romantic-bouquet
+                    - text: Buy Product
+          - generic [ref=e198]:
+            - img [ref=e199]
+            - generic [ref=e200]:
+              - paragraph [ref=e201]: November Sale Up to 20% Off
+              - paragraph [ref=e202]: November Sale Up to 20% Off
+              - button [ref=e203] [cursor=pointer]:
+                - link [ref=e204]:
+                  - /url: /sale
+                  - text: For purchase
+        - img [ref=e205]
+        - img [ref=e206]
+      - generic [ref=e207]:
+        - heading [level=2] [ref=e208]: BestSeller
+        - generic [ref=e209]:
+          - button [ref=e210] [cursor=pointer]
+          - button [ref=e211] [cursor=pointer]
+          - generic [ref=e214]:
+            - generic [ref=e217]:
+              - link [ref=e218] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Surprising-bouquet
+                - img [ref=e219]
+              - link [ref=e222] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Surprising-bouquet
+                - heading [level=2] [ref=e223]: Surprising bouquet
+              - generic [ref=e224] [cursor=pointer]:
+                - generic [ref=e225]: Subscribe to a product
+                - img [ref=e226]
+              - generic [ref=e227]:
+                - button [ref=e228] [cursor=pointer]:
+                  - img [ref=e229]
+                  - generic [ref=e230]: Add
+                - generic [ref=e231]:
+                  - generic [ref=e232]: "133"
+                  - generic [ref=e233]: NIS
+            - generic [ref=e236]:
+              - link [ref=e237] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Rustic-Sunflower-Bouquet
+                - img [ref=e238]
+              - link [ref=e241] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Rustic-Sunflower-Bouquet
+                - heading [level=2] [ref=e242]: Rustic Sunflower Bouquet
+              - generic [ref=e243] [cursor=pointer]:
+                - generic [ref=e244]: Subscribe to a product
+                - img [ref=e245]
+              - generic [ref=e246]:
+                - button [ref=e247] [cursor=pointer]:
+                  - img [ref=e248]
+                  - generic [ref=e249]: Add
+                - generic [ref=e250]:
+                  - generic [ref=e251]: "139"
+                  - generic [ref=e252]: NIS
+            - generic [ref=e255]:
+              - link [ref=e256] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Purple-orange-love
+                - generic [ref=e258]:
+                  - img [ref=e259]
+                  - paragraph [ref=e260]: SALE
+                - img [ref=e261]
+              - link [ref=e264] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Purple-orange-love
+                - heading [level=2] [ref=e265]: Purple orange love
+              - generic [ref=e266] [cursor=pointer]:
+                - generic [ref=e267]: Subscribe to a product
+                - img [ref=e268]
+              - generic [ref=e269]:
+                - button [ref=e270] [cursor=pointer]:
+                  - img [ref=e271]
+                  - generic [ref=e272]: Add
+                - generic [ref=e273]:
+                  - generic [ref=e274]:
+                    - generic [ref=e275]: "169"
+                    - generic [ref=e276]: NIS
+                  - generic [ref=e277]:
+                    - generic [ref=e278]: "149"
+                    - generic [ref=e279]: NIS
+            - generic [ref=e282]:
+              - link [ref=e283] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Princess-in-white
+                - generic [ref=e285]:
+                  - img [ref=e286]
+                  - paragraph [ref=e287]: SALE
+                - img [ref=e288]
+              - link [ref=e291] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Princess-in-white
+                - heading [level=2] [ref=e292]: Princess in white
+              - generic [ref=e293] [cursor=pointer]:
+                - generic [ref=e294]: Subscribe to a product
+                - img [ref=e295]
+              - generic [ref=e296]:
+                - button [ref=e297] [cursor=pointer]:
+                  - img [ref=e298]
+                  - generic [ref=e299]: Add
+                - generic [ref=e300]:
+                  - generic [ref=e301]:
+                    - generic [ref=e302]: "189"
+                    - generic [ref=e303]: NIS
+                  - generic [ref=e304]:
+                    - generic [ref=e305]: "165"
+                    - generic [ref=e306]: NIS
+            - generic [ref=e309]:
+              - link [ref=e310] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Colorful-flower-bouquet
+                - img [ref=e311]
+              - heading [level=2] [ref=e315] [cursor=pointer]: Colorful flower bouquet
+              - generic [ref=e316] [cursor=pointer]:
+                - generic [ref=e317]: Subscribe to a product
+                - img [ref=e318]
+              - generic [ref=e319]:
+                - button [ref=e320] [cursor=pointer]:
+                  - img [ref=e321]
+                  - generic [ref=e322]: Add
+                - generic [ref=e323]:
+                  - generic [ref=e324]: "179"
+                  - generic [ref=e325]: NIS
+            - generic [ref=e328]:
+              - link [ref=e329] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Lisi-mix-bouquet
+                - generic [ref=e331]:
+                  - img [ref=e332]
+                  - paragraph [ref=e333]: SALE
+                - img [ref=e334]
+              - link [ref=e337] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Lisi-mix-bouquet
+                - heading [level=2] [ref=e338]: Lisi mix bouquet
+              - generic [ref=e339] [cursor=pointer]:
+                - generic [ref=e340]: Subscribe to a product
+                - img [ref=e341]
+              - generic [ref=e342]:
+                - button [ref=e343] [cursor=pointer]:
+                  - img [ref=e344]
+                  - generic [ref=e345]: Add
+                - generic [ref=e346]:
+                  - generic [ref=e347]:
+                    - generic [ref=e348]: "175"
+                    - generic [ref=e349]: NIS
+                  - generic [ref=e350]:
+                    - generic [ref=e351]: "159"
+                    - generic [ref=e352]: NIS
+            - generic [ref=e355]:
+              - link [ref=e356] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Red-happiness
+                - img [ref=e357]
+              - link [ref=e360] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Red-happiness
+                - heading [level=2] [ref=e361]: Red happiness
+              - generic [ref=e362]:
+                - button [ref=e363] [cursor=pointer]:
+                  - img [ref=e364]
+                  - generic [ref=e365]: Add
+                - generic [ref=e366]:
+                  - generic [ref=e367]: "149"
+                  - generic [ref=e368]: NIS
+            - generic [ref=e371]:
+              - link [ref=e372] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Refreshing-fruit-tray
+                - generic [ref=e374]:
+                  - img [ref=e375]
+                  - paragraph [ref=e376]: SALE
+                - img [ref=e377]
+              - link [ref=e380] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Refreshing-fruit-tray
+                - heading [level=2] [ref=e381]: Refreshing fruit tray
+              - generic [ref=e382]:
+                - button [ref=e383] [cursor=pointer]:
+                  - img [ref=e384]
+                  - generic [ref=e385]: Add
+                - generic [ref=e386]:
+                  - generic [ref=e387]:
+                    - generic [ref=e388]: "319"
+                    - generic [ref=e389]: NIS
+                  - generic [ref=e390]:
+                    - generic [ref=e391]: "289"
+                    - generic [ref=e392]: NIS
+            - generic [ref=e395]:
+              - link [ref=e396] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Romantic-bouquet
+                - generic [ref=e398]:
+                  - img [ref=e399]
+                  - paragraph [ref=e400]: SALE
+                - img [ref=e401]
+              - link [ref=e404] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Romantic-bouquet
+                - heading [level=2] [ref=e405]: Romantic bouquet
+              - generic [ref=e406] [cursor=pointer]:
+                - generic [ref=e407]: Subscribe to a product
+                - img [ref=e408]
+              - generic [ref=e409]:
+                - button [ref=e410] [cursor=pointer]:
+                  - img [ref=e411]
+                  - generic [ref=e412]: Add
+                - generic [ref=e413]:
+                  - generic [ref=e414]:
+                    - generic [ref=e415]: "180"
+                    - generic [ref=e416]: NIS
+                  - generic [ref=e417]:
+                    - generic [ref=e418]: "168"
+                    - generic [ref=e419]: NIS
+            - generic [ref=e422]:
+              - link [ref=e423] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Pink-lisianthus-bouquet
+                - generic [ref=e425]:
+                  - img [ref=e426]
+                  - paragraph [ref=e427]: SALE
+                - img [ref=e428]
+              - link [ref=e431] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Pink-lisianthus-bouquet
+                - heading [level=2] [ref=e432]: Pink lisianthus bouquet
+              - generic [ref=e433]:
+                - button [ref=e434] [cursor=pointer]:
+                  - img [ref=e435]
+                  - generic [ref=e436]: Add
+                - generic [ref=e437]:
+                  - generic [ref=e438]:
+                    - generic [ref=e439]: "175"
+                    - generic [ref=e440]: NIS
+                  - generic [ref=e441]:
+                    - generic [ref=e442]: "159"
+                    - generic [ref=e443]: NIS
+            - generic [ref=e446]:
+              - link [ref=e447] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Surprising-bouquet
+                - img [ref=e448]
+              - link [ref=e451] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Surprising-bouquet
+                - heading [level=2] [ref=e452]: Surprising bouquet
+              - generic [ref=e453] [cursor=pointer]:
+                - generic [ref=e454]: Subscribe to a product
+                - img [ref=e455]
+              - generic [ref=e456]:
+                - button [ref=e457] [cursor=pointer]:
+                  - img [ref=e458]
+                  - generic [ref=e459]: Add
+                - generic [ref=e460]:
+                  - generic [ref=e461]: "133"
+                  - generic [ref=e462]: NIS
+            - generic [ref=e465]:
+              - link [ref=e466] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Rustic-Sunflower-Bouquet
+                - img [ref=e467]
+              - link [ref=e470] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Rustic-Sunflower-Bouquet
+                - heading [level=2] [ref=e471]: Rustic Sunflower Bouquet
+              - generic [ref=e472] [cursor=pointer]:
+                - generic [ref=e473]: Subscribe to a product
+                - img [ref=e474]
+              - generic [ref=e475]:
+                - button [ref=e476] [cursor=pointer]:
+                  - img [ref=e477]
+                  - generic [ref=e478]: Add
+                - generic [ref=e479]:
+                  - generic [ref=e480]: "139"
+                  - generic [ref=e481]: NIS
+            - generic [ref=e484]:
+              - link [ref=e485] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Purple-orange-love
+                - generic [ref=e487]:
+                  - img [ref=e488]
+                  - paragraph [ref=e489]: SALE
+                - img [ref=e490]
+              - link [ref=e493] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Purple-orange-love
+                - heading [level=2] [ref=e494]: Purple orange love
+              - generic [ref=e495] [cursor=pointer]:
+                - generic [ref=e496]: Subscribe to a product
+                - img [ref=e497]
+              - generic [ref=e498]:
+                - button [ref=e499] [cursor=pointer]:
+                  - img [ref=e500]
+                  - generic [ref=e501]: Add
+                - generic [ref=e502]:
+                  - generic [ref=e503]:
+                    - generic [ref=e504]: "169"
+                    - generic [ref=e505]: NIS
+                  - generic [ref=e506]:
+                    - generic [ref=e507]: "149"
+                    - generic [ref=e508]: NIS
+            - generic [ref=e511]:
+              - link [ref=e512] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Princess-in-white
+                - generic [ref=e514]:
+                  - img [ref=e515]
+                  - paragraph [ref=e516]: SALE
+                - img [ref=e517]
+              - link [ref=e520] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Princess-in-white
+                - heading [level=2] [ref=e521]: Princess in white
+              - generic [ref=e522] [cursor=pointer]:
+                - generic [ref=e523]: Subscribe to a product
+                - img [ref=e524]
+              - generic [ref=e525]:
+                - button [ref=e526] [cursor=pointer]:
+                  - img [ref=e527]
+                  - generic [ref=e528]: Add
+                - generic [ref=e529]:
+                  - generic [ref=e530]:
+                    - generic [ref=e531]: "189"
+                    - generic [ref=e532]: NIS
+                  - generic [ref=e533]:
+                    - generic [ref=e534]: "165"
+                    - generic [ref=e535]: NIS
+            - generic [ref=e538]:
+              - link [ref=e539] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Colorful-flower-bouquet
+                - img [ref=e540]
+              - heading [level=2] [ref=e544] [cursor=pointer]: Colorful flower bouquet
+              - generic [ref=e545] [cursor=pointer]:
+                - generic [ref=e546]: Subscribe to a product
+                - img [ref=e547]
+              - generic [ref=e548]:
+                - button [ref=e549] [cursor=pointer]:
+                  - img [ref=e550]
+                  - generic [ref=e551]: Add
+                - generic [ref=e552]:
+                  - generic [ref=e553]: "179"
+                  - generic [ref=e554]: NIS
+            - generic [ref=e557]:
+              - link [ref=e558] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Lisi-mix-bouquet
+                - generic [ref=e560]:
+                  - img [ref=e561]
+                  - paragraph [ref=e562]: SALE
+                - img [ref=e563]
+              - link [ref=e566] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Lisi-mix-bouquet
+                - heading [level=2] [ref=e567]: Lisi mix bouquet
+              - generic [ref=e568] [cursor=pointer]:
+                - generic [ref=e569]: Subscribe to a product
+                - img [ref=e570]
+              - generic [ref=e571]:
+                - button [ref=e572] [cursor=pointer]:
+                  - img [ref=e573]
+                  - generic [ref=e574]: Add
+                - generic [ref=e575]:
+                  - generic [ref=e576]:
+                    - generic [ref=e577]: "175"
+                    - generic [ref=e578]: NIS
+                  - generic [ref=e579]:
+                    - generic [ref=e580]: "159"
+                    - generic [ref=e581]: NIS
+            - generic [ref=e584]:
+              - link [ref=e585] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Red-happiness
+                - img [ref=e586]
+              - link [ref=e589] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Red-happiness
+                - heading [level=2] [ref=e590]: Red happiness
+              - generic [ref=e591]:
+                - button [ref=e592] [cursor=pointer]:
+                  - img [ref=e593]
+                  - generic [ref=e594]: Add
+                - generic [ref=e595]:
+                  - generic [ref=e596]: "149"
+                  - generic [ref=e597]: NIS
+            - generic [ref=e600]:
+              - link [ref=e601] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Refreshing-fruit-tray
+                - generic [ref=e603]:
+                  - img [ref=e604]
+                  - paragraph [ref=e605]: SALE
+                - img [ref=e606]
+              - link [ref=e609] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Refreshing-fruit-tray
+                - heading [level=2] [ref=e610]: Refreshing fruit tray
+              - generic [ref=e611]:
+                - button [ref=e612] [cursor=pointer]:
+                  - img [ref=e613]
+                  - generic [ref=e614]: Add
+                - generic [ref=e615]:
+                  - generic [ref=e616]:
+                    - generic [ref=e617]: "319"
+                    - generic [ref=e618]: NIS
+                  - generic [ref=e619]:
+                    - generic [ref=e620]: "289"
+                    - generic [ref=e621]: NIS
+      - generic [ref=e622]:
+        - heading [level=2] [ref=e623]: Our recommended
+        - generic [ref=e624]:
+          - button [ref=e625] [cursor=pointer]
+          - button [ref=e626] [cursor=pointer]
+          - generic [ref=e629]:
+            - generic [ref=e632]:
+              - link [ref=e633] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/The-rose-of-love
+                - img [ref=e634]
+              - link [ref=e637] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/The-rose-of-love
+                - heading [level=2] [ref=e638]: The rose of love
+              - generic [ref=e639]:
+                - button [ref=e640] [cursor=pointer]:
+                  - img [ref=e641]
+                  - generic [ref=e642]: Add
+                - generic [ref=e643]:
+                  - generic [ref=e644]: "219"
+                  - generic [ref=e645]: NIS
+            - generic [ref=e648]:
+              - link [ref=e649] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Pink-lisianthus-bouquet
+                - generic [ref=e651]:
+                  - img [ref=e652]
+                  - paragraph [ref=e653]: SALE
+                - img [ref=e654]
+              - link [ref=e657] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Pink-lisianthus-bouquet
+                - heading [level=2] [ref=e658]: Pink lisianthus bouquet
+              - generic [ref=e659]:
+                - button [ref=e660] [cursor=pointer]:
+                  - img [ref=e661]
+                  - generic [ref=e662]: Add
+                - generic [ref=e663]:
+                  - generic [ref=e664]:
+                    - generic [ref=e665]: "175"
+                    - generic [ref=e666]: NIS
+                  - generic [ref=e667]:
+                    - generic [ref=e668]: "159"
+                    - generic [ref=e669]: NIS
+            - generic [ref=e672]:
+              - link [ref=e673] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/huge-heart-box
+                - img [ref=e674]
+              - link [ref=e677] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/huge-heart-box
+                - heading [level=2] [ref=e678]: Huge heart box
+              - generic [ref=e679]:
+                - button [ref=e680] [cursor=pointer]:
+                  - img [ref=e681]
+                  - generic [ref=e682]: Add
+                - generic [ref=e683]:
+                  - generic [ref=e684]: "369"
+                  - generic [ref=e685]: NIS
+            - generic [ref=e688]:
+              - link [ref=e689] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Purple-Peace-Bouquet
+                - img [ref=e690]
+              - heading [level=2] [ref=e694] [cursor=pointer]: Purple Peace Bouquet
+              - generic [ref=e695] [cursor=pointer]:
+                - generic [ref=e696]: Subscribe to a product
+                - img [ref=e697]
+              - generic [ref=e698]:
+                - button [ref=e699] [cursor=pointer]:
+                  - img [ref=e700]
+                  - generic [ref=e701]: Add
+                - generic [ref=e702]:
+                  - generic [ref=e703]: "149"
+                  - generic [ref=e704]: NIS
+            - generic [ref=e707]:
+              - link [ref=e708] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/A-mix-of-roses
+                - img [ref=e709]
+              - link [ref=e712] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/A-mix-of-roses
+                - heading [level=2] [ref=e713]: A mix of roses
+              - generic [ref=e714]:
+                - button [ref=e715] [cursor=pointer]:
+                  - img [ref=e716]
+                  - generic [ref=e717]: Add
+                - generic [ref=e718]:
+                  - generic [ref=e719]: "135"
+                  - generic [ref=e720]: NIS
+            - generic [ref=e723]:
+              - link [ref=e724] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Elegant-red-roses-bouquet
+                - img [ref=e725]
+              - link [ref=e728] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Elegant-red-roses-bouquet
+                - heading [level=2] [ref=e729]: Elegant red roses bouquet
+              - generic [ref=e730]:
+                - button [ref=e731] [cursor=pointer]:
+                  - img [ref=e732]
+                  - generic [ref=e733]: Add
+                - generic [ref=e734]:
+                  - generic [ref=e735]: "129"
+                  - generic [ref=e736]: NIS
+            - generic [ref=e739]:
+              - link [ref=e740] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/carnaval
+                - generic [ref=e742]:
+                  - img [ref=e743]
+                  - paragraph [ref=e744]: SALE
+                - img [ref=e745]
+              - link [ref=e748] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/carnaval
+                - heading [level=2] [ref=e749]: carnaval
+              - generic [ref=e750] [cursor=pointer]:
+                - generic [ref=e751]: Subscribe to a product
+                - img [ref=e752]
+              - generic [ref=e753]:
+                - button [ref=e754] [cursor=pointer]:
+                  - img [ref=e755]
+                  - generic [ref=e756]: Add
+                - generic [ref=e757]:
+                  - generic [ref=e758]:
+                    - generic [ref=e759]: "175"
+                    - generic [ref=e760]: NIS
+                  - generic [ref=e761]:
+                    - generic [ref=e762]: "159"
+                    - generic [ref=e763]: NIS
+            - generic [ref=e766]:
+              - link [ref=e767] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Princess-fruit-tray
+                - img [ref=e768]
+              - link [ref=e771] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Princess-fruit-tray
+                - heading [level=2] [ref=e772]: Princess fruit tray
+              - generic [ref=e773]:
+                - button [ref=e774] [cursor=pointer]:
+                  - img [ref=e775]
+                  - generic [ref=e776]: Add
+                - generic [ref=e777]:
+                  - generic [ref=e778]: "295"
+                  - generic [ref=e779]: NIS
+            - generic [ref=e782]:
+              - link [ref=e783] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-garlands-of-balloons/Bouquet-of-romantic-helium-balloons
+                - img [ref=e784]
+              - link [ref=e787] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-garlands-of-balloons/Bouquet-of-romantic-helium-balloons
+                - heading [level=2] [ref=e788]: Bouquet of romantic helium balloons
+              - generic [ref=e789]:
+                - button [ref=e790] [cursor=pointer]:
+                  - img [ref=e791]
+                  - generic [ref=e792]: Add
+                - generic [ref=e793]:
+                  - generic [ref=e794]: "119"
+                  - generic [ref=e795]: NIS
+            - generic [ref=e798]:
+              - link [ref=e799] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Beautiful-in-purple
+                - img [ref=e800]
+              - link [ref=e803] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Beautiful-in-purple
+                - heading [level=2] [ref=e804]: Beautiful in purple
+              - generic [ref=e805]:
+                - button [ref=e806] [cursor=pointer]:
+                  - img [ref=e807]
+                  - generic [ref=e808]: Add
+                - generic [ref=e809]:
+                  - generic [ref=e810]: "138"
+                  - generic [ref=e811]: NIS
+            - generic [ref=e814]:
+              - link [ref=e815] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/The-rose-of-love
+                - img [ref=e816]
+              - link [ref=e819] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/The-rose-of-love
+                - heading [level=2] [ref=e820]: The rose of love
+              - generic [ref=e821]:
+                - button [ref=e822] [cursor=pointer]:
+                  - img [ref=e823]
+                  - generic [ref=e824]: Add
+                - generic [ref=e825]:
+                  - generic [ref=e826]: "219"
+                  - generic [ref=e827]: NIS
+            - generic [ref=e830]:
+              - link [ref=e831] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Pink-lisianthus-bouquet
+                - generic [ref=e833]:
+                  - img [ref=e834]
+                  - paragraph [ref=e835]: SALE
+                - img [ref=e836]
+              - link [ref=e839] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Pink-lisianthus-bouquet
+                - heading [level=2] [ref=e840]: Pink lisianthus bouquet
+              - generic [ref=e841]:
+                - button [ref=e842] [cursor=pointer]:
+                  - img [ref=e843]
+                  - generic [ref=e844]: Add
+                - generic [ref=e845]:
+                  - generic [ref=e846]:
+                    - generic [ref=e847]: "175"
+                    - generic [ref=e848]: NIS
+                  - generic [ref=e849]:
+                    - generic [ref=e850]: "159"
+                    - generic [ref=e851]: NIS
+            - generic [ref=e854]:
+              - link [ref=e855] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/huge-heart-box
+                - img [ref=e856]
+              - link [ref=e859] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/huge-heart-box
+                - heading [level=2] [ref=e860]: Huge heart box
+              - generic [ref=e861]:
+                - button [ref=e862] [cursor=pointer]:
+                  - img [ref=e863]
+                  - generic [ref=e864]: Add
+                - generic [ref=e865]:
+                  - generic [ref=e866]: "369"
+                  - generic [ref=e867]: NIS
+            - generic [ref=e870]:
+              - link [ref=e871] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Purple-Peace-Bouquet
+                - img [ref=e872]
+              - heading [level=2] [ref=e876] [cursor=pointer]: Purple Peace Bouquet
+              - generic [ref=e877] [cursor=pointer]:
+                - generic [ref=e878]: Subscribe to a product
+                - img [ref=e879]
+              - generic [ref=e880]:
+                - button [ref=e881] [cursor=pointer]:
+                  - img [ref=e882]
+                  - generic [ref=e883]: Add
+                - generic [ref=e884]:
+                  - generic [ref=e885]: "149"
+                  - generic [ref=e886]: NIS
+            - generic [ref=e889]:
+              - link [ref=e890] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/A-mix-of-roses
+                - img [ref=e891]
+              - link [ref=e894] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/A-mix-of-roses
+                - heading [level=2] [ref=e895]: A mix of roses
+              - generic [ref=e896]:
+                - button [ref=e897] [cursor=pointer]:
+                  - img [ref=e898]
+                  - generic [ref=e899]: Add
+                - generic [ref=e900]:
+                  - generic [ref=e901]: "135"
+                  - generic [ref=e902]: NIS
+            - generic [ref=e905]:
+              - link [ref=e906] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Elegant-red-roses-bouquet
+                - img [ref=e907]
+              - link [ref=e910] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/Elegant-red-roses-bouquet
+                - heading [level=2] [ref=e911]: Elegant red roses bouquet
+              - generic [ref=e912]:
+                - button [ref=e913] [cursor=pointer]:
+                  - img [ref=e914]
+                  - generic [ref=e915]: Add
+                - generic [ref=e916]:
+                  - generic [ref=e917]: "129"
+                  - generic [ref=e918]: NIS
+            - generic [ref=e921]:
+              - link [ref=e922] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/carnaval
+                - generic [ref=e924]:
+                  - img [ref=e925]
+                  - paragraph [ref=e926]: SALE
+                - img [ref=e927]
+              - link [ref=e930] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-bouquets/carnaval
+                - heading [level=2] [ref=e931]: carnaval
+              - generic [ref=e932] [cursor=pointer]:
+                - generic [ref=e933]: Subscribe to a product
+                - img [ref=e934]
+              - generic [ref=e935]:
+                - button [ref=e936] [cursor=pointer]:
+                  - img [ref=e937]
+                  - generic [ref=e938]: Add
+                - generic [ref=e939]:
+                  - generic [ref=e940]:
+                    - generic [ref=e941]: "175"
+                    - generic [ref=e942]: NIS
+                  - generic [ref=e943]:
+                    - generic [ref=e944]: "159"
+                    - generic [ref=e945]: NIS
+            - generic [ref=e948]:
+              - link [ref=e949] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Princess-fruit-tray
+                - img [ref=e950]
+              - link [ref=e953] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Princess-fruit-tray
+                - heading [level=2] [ref=e954]: Princess fruit tray
+              - generic [ref=e955]:
+                - button [ref=e956] [cursor=pointer]:
+                  - img [ref=e957]
+                  - generic [ref=e958]: Add
+                - generic [ref=e959]:
+                  - generic [ref=e960]: "295"
+                  - generic [ref=e961]: NIS
+      - generic [ref=e962]:
+        - heading [level=2] [ref=e963]: Pots and orchids
+        - generic [ref=e964]:
+          - button [ref=e965] [cursor=pointer]
+          - button [ref=e966] [cursor=pointer]
+          - generic [ref=e969]:
+            - generic [ref=e972]:
+              - link [ref=e973] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Elegant-Orchid-Plant
+                - img [ref=e974]
+              - link [ref=e977] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Elegant-Orchid-Plant
+                - heading [level=2] [ref=e978]: Spectacular orchid plant
+              - generic [ref=e979] [cursor=pointer]:
+                - generic [ref=e980]: Subscribe to a product
+                - img [ref=e981]
+              - generic [ref=e982]:
+                - button [ref=e983] [cursor=pointer]:
+                  - img [ref=e984]
+                  - generic [ref=e985]: Add
+                - generic [ref=e986]:
+                  - generic [ref=e987]: "259"
+                  - generic [ref=e988]: NIS
+            - generic [ref=e991]:
+              - link [ref=e992] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/-Plant-red-Anterium
+                - img [ref=e993]
+              - link [ref=e996] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/-Plant-red-Anterium
+                - heading [level=2] [ref=e997]: Plant red Anterium
+              - generic [ref=e998] [cursor=pointer]:
+                - generic [ref=e999]: Subscribe to a product
+                - img [ref=e1000]
+              - generic [ref=e1001]:
+                - button [ref=e1002] [cursor=pointer]:
+                  - img [ref=e1003]
+                  - generic [ref=e1004]: Add
+                - generic [ref=e1005]:
+                  - generic [ref=e1006]: "159"
+                  - generic [ref=e1007]: NIS
+            - generic [ref=e1010]:
+              - link [ref=e1011] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Guzmania-in-an-Elegant-Planter
+                - img [ref=e1012]
+              - link [ref=e1015] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Guzmania-in-an-Elegant-Planter
+                - heading [level=2] [ref=e1016]: Guzmania pot in a ceramic vessel
+              - generic [ref=e1017] [cursor=pointer]:
+                - generic [ref=e1018]: Subscribe to a product
+                - img [ref=e1019]
+              - generic [ref=e1020]:
+                - button [ref=e1021] [cursor=pointer]:
+                  - img [ref=e1022]
+                  - generic [ref=e1023]: Add
+                - generic [ref=e1024]:
+                  - generic [ref=e1025]: "179"
+                  - generic [ref=e1026]: NIS
+            - generic [ref=e1029]:
+              - link [ref=e1030] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Sansevieria-Plant
+                - img [ref=e1031]
+              - link [ref=e1034] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Sansevieria-Plant
+                - heading [level=2] [ref=e1035]: Sansevieria Plant
+              - generic [ref=e1036]:
+                - button [ref=e1037] [cursor=pointer]:
+                  - img [ref=e1038]
+                  - generic [ref=e1039]: Add
+                - generic [ref=e1040]:
+                  - generic [ref=e1041]: "189"
+                  - generic [ref=e1042]: NIS
+            - generic [ref=e1045]:
+              - link [ref=e1046] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Elegant-Spathiphyllum-Pot
+                - img [ref=e1047]
+              - link [ref=e1050] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Elegant-Spathiphyllum-Pot
+                - heading [level=2] [ref=e1051]: Elegant Spathiphyllum Pot
+              - generic [ref=e1052] [cursor=pointer]:
+                - generic [ref=e1053]: Subscribe to a product
+                - img [ref=e1054]
+              - generic [ref=e1055]:
+                - button [ref=e1056] [cursor=pointer]:
+                  - img [ref=e1057]
+                  - generic [ref=e1058]: Add
+                - generic [ref=e1059]:
+                  - generic [ref=e1060]: "166"
+                  - generic [ref=e1061]: NIS
+            - generic [ref=e1064]:
+              - link [ref=e1065] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Double-orchid-purple
+                - img [ref=e1066]
+              - link [ref=e1069] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Double-orchid-purple
+                - heading [level=2] [ref=e1070]: Double orchid purple
+              - generic [ref=e1071]:
+                - button [ref=e1072] [cursor=pointer]:
+                  - img [ref=e1073]
+                  - generic [ref=e1074]: Add
+                - generic [ref=e1075]:
+                  - generic [ref=e1076]: "259"
+                  - generic [ref=e1077]: NIS
+            - generic [ref=e1080]:
+              - link [ref=e1081] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/The-love-tree
+                - img [ref=e1082]
+              - link [ref=e1085] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/The-love-tree
+                - heading [level=2] [ref=e1086]: The love tree
+              - generic [ref=e1087]:
+                - button [ref=e1088] [cursor=pointer]:
+                  - img [ref=e1089]
+                  - generic [ref=e1090]: Add
+                - generic [ref=e1091]:
+                  - generic [ref=e1092]: "189"
+                  - generic [ref=e1093]: NIS
+            - generic [ref=e1096]:
+              - link [ref=e1097] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/White-Double-Orchid-in-Designer-Pot-with-Red-Wine
+                - generic [ref=e1099]:
+                  - img [ref=e1100]
+                  - paragraph [ref=e1101]: SALE
+                - img [ref=e1102]
+              - link [ref=e1105] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/White-Double-Orchid-in-Designer-Pot-with-Red-Wine
+                - heading [level=2] [ref=e1106]: Orchid in a vessel and wine
+              - generic [ref=e1107] [cursor=pointer]:
+                - generic [ref=e1108]: Subscribe to a product
+                - img [ref=e1109]
+              - generic [ref=e1110]:
+                - button [ref=e1111] [cursor=pointer]:
+                  - img [ref=e1112]
+                  - generic [ref=e1113]: Add
+                - generic [ref=e1114]:
+                  - generic [ref=e1115]:
+                    - generic [ref=e1116]: "345"
+                    - generic [ref=e1117]: NIS
+                  - generic [ref=e1118]:
+                    - generic [ref=e1119]: "299"
+                    - generic [ref=e1120]: NIS
+            - generic [ref=e1123]:
+              - link [ref=e1124] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Elegant-Orchid-Plant
+                - img [ref=e1125]
+              - link [ref=e1128] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Elegant-Orchid-Plant
+                - heading [level=2] [ref=e1129]: Spectacular orchid plant
+              - generic [ref=e1130] [cursor=pointer]:
+                - generic [ref=e1131]: Subscribe to a product
+                - img [ref=e1132]
+              - generic [ref=e1133]:
+                - button [ref=e1134] [cursor=pointer]:
+                  - img [ref=e1135]
+                  - generic [ref=e1136]: Add
+                - generic [ref=e1137]:
+                  - generic [ref=e1138]: "259"
+                  - generic [ref=e1139]: NIS
+            - generic [ref=e1142]:
+              - link [ref=e1143] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/-Plant-red-Anterium
+                - img [ref=e1144]
+              - link [ref=e1147] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/-Plant-red-Anterium
+                - heading [level=2] [ref=e1148]: Plant red Anterium
+              - generic [ref=e1149] [cursor=pointer]:
+                - generic [ref=e1150]: Subscribe to a product
+                - img [ref=e1151]
+              - generic [ref=e1152]:
+                - button [ref=e1153] [cursor=pointer]:
+                  - img [ref=e1154]
+                  - generic [ref=e1155]: Add
+                - generic [ref=e1156]:
+                  - generic [ref=e1157]: "159"
+                  - generic [ref=e1158]: NIS
+            - generic [ref=e1161]:
+              - link [ref=e1162] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Guzmania-in-an-Elegant-Planter
+                - img [ref=e1163]
+              - link [ref=e1166] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Guzmania-in-an-Elegant-Planter
+                - heading [level=2] [ref=e1167]: Guzmania pot in a ceramic vessel
+              - generic [ref=e1168] [cursor=pointer]:
+                - generic [ref=e1169]: Subscribe to a product
+                - img [ref=e1170]
+              - generic [ref=e1171]:
+                - button [ref=e1172] [cursor=pointer]:
+                  - img [ref=e1173]
+                  - generic [ref=e1174]: Add
+                - generic [ref=e1175]:
+                  - generic [ref=e1176]: "179"
+                  - generic [ref=e1177]: NIS
+            - generic [ref=e1180]:
+              - link [ref=e1181] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Sansevieria-Plant
+                - img [ref=e1182]
+              - link [ref=e1185] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Sansevieria-Plant
+                - heading [level=2] [ref=e1186]: Sansevieria Plant
+              - generic [ref=e1187]:
+                - button [ref=e1188] [cursor=pointer]:
+                  - img [ref=e1189]
+                  - generic [ref=e1190]: Add
+                - generic [ref=e1191]:
+                  - generic [ref=e1192]: "189"
+                  - generic [ref=e1193]: NIS
+            - generic [ref=e1196]:
+              - link [ref=e1197] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Elegant-Spathiphyllum-Pot
+                - img [ref=e1198]
+              - link [ref=e1201] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Elegant-Spathiphyllum-Pot
+                - heading [level=2] [ref=e1202]: Elegant Spathiphyllum Pot
+              - generic [ref=e1203] [cursor=pointer]:
+                - generic [ref=e1204]: Subscribe to a product
+                - img [ref=e1205]
+              - generic [ref=e1206]:
+                - button [ref=e1207] [cursor=pointer]:
+                  - img [ref=e1208]
+                  - generic [ref=e1209]: Add
+                - generic [ref=e1210]:
+                  - generic [ref=e1211]: "166"
+                  - generic [ref=e1212]: NIS
+            - generic [ref=e1215]:
+              - link [ref=e1216] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Double-orchid-purple
+                - img [ref=e1217]
+              - link [ref=e1220] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/Double-orchid-purple
+                - heading [level=2] [ref=e1221]: Double orchid purple
+              - generic [ref=e1222]:
+                - button [ref=e1223] [cursor=pointer]:
+                  - img [ref=e1224]
+                  - generic [ref=e1225]: Add
+                - generic [ref=e1226]:
+                  - generic [ref=e1227]: "259"
+                  - generic [ref=e1228]: NIS
+            - generic [ref=e1231]:
+              - link [ref=e1232] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/The-love-tree
+                - img [ref=e1233]
+              - link [ref=e1236] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/The-love-tree
+                - heading [level=2] [ref=e1237]: The love tree
+              - generic [ref=e1238]:
+                - button [ref=e1239] [cursor=pointer]:
+                  - img [ref=e1240]
+                  - generic [ref=e1241]: Add
+                - generic [ref=e1242]:
+                  - generic [ref=e1243]: "189"
+                  - generic [ref=e1244]: NIS
+            - generic [ref=e1247]:
+              - link [ref=e1248] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/White-Double-Orchid-in-Designer-Pot-with-Red-Wine
+                - generic [ref=e1250]:
+                  - img [ref=e1251]
+                  - paragraph [ref=e1252]: SALE
+                - img [ref=e1253]
+              - link [ref=e1256] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-pots-and-orchids/White-Double-Orchid-in-Designer-Pot-with-Red-Wine
+                - heading [level=2] [ref=e1257]: Orchid in a vessel and wine
+              - generic [ref=e1258] [cursor=pointer]:
+                - generic [ref=e1259]: Subscribe to a product
+                - img [ref=e1260]
+              - generic [ref=e1261]:
+                - button [ref=e1262] [cursor=pointer]:
+                  - img [ref=e1263]
+                  - generic [ref=e1264]: Add
+                - generic [ref=e1265]:
+                  - generic [ref=e1266]:
+                    - generic [ref=e1267]: "345"
+                    - generic [ref=e1268]: NIS
+                  - generic [ref=e1269]:
+                    - generic [ref=e1270]: "299"
+                    - generic [ref=e1271]: NIS
+      - generic [ref=e1272]:
+        - heading [level=2] [ref=e1273]: Fruit trays
+        - generic [ref=e1274]:
+          - button [ref=e1275] [cursor=pointer]
+          - button [ref=e1276] [cursor=pointer]
+          - generic [ref=e1279]:
+            - generic [ref=e1282]:
+              - link [ref=e1283] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/fruit-tray-Box
+                - img [ref=e1284]
+              - link [ref=e1287] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/fruit-tray-Box
+                - heading [level=2] [ref=e1288]: fruit tray Box
+              - generic [ref=e1289]:
+                - button [ref=e1290] [cursor=pointer]:
+                  - img [ref=e1291]
+                  - generic [ref=e1292]: Add
+                - generic [ref=e1293]:
+                  - generic [ref=e1294]: "289"
+                  - generic [ref=e1295]: NIS
+            - generic [ref=e1298]:
+              - link [ref=e1299] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Hallelujah-fruit-tray
+                - generic [ref=e1301]:
+                  - img [ref=e1302]
+                  - paragraph [ref=e1303]: SALE
+                - img [ref=e1304]
+              - link [ref=e1307] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Hallelujah-fruit-tray
+                - heading [level=2] [ref=e1308]: Hallelujah fruit tray
+              - generic [ref=e1309]:
+                - button [ref=e1310] [cursor=pointer]:
+                  - img [ref=e1311]
+                  - generic [ref=e1312]: Add
+                - generic [ref=e1313]:
+                  - generic [ref=e1314]:
+                    - generic [ref=e1315]: "309"
+                    - generic [ref=e1316]: NIS
+                  - generic [ref=e1317]:
+                    - generic [ref=e1318]: "285"
+                    - generic [ref=e1319]: NIS
+            - generic [ref=e1322]:
+              - link [ref=e1323] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Hearty-fruit-tray
+                - img [ref=e1324]
+              - link [ref=e1327] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Hearty-fruit-tray
+                - heading [level=2] [ref=e1328]: Hearty fruit tray
+              - generic [ref=e1329]:
+                - button [ref=e1330] [cursor=pointer]:
+                  - img [ref=e1331]
+                  - generic [ref=e1332]: Add
+                - generic [ref=e1333]:
+                  - generic [ref=e1334]: "399"
+                  - generic [ref=e1335]: NIS
+            - generic [ref=e1338]:
+              - link [ref=e1339] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Refreshing-fruit-tray
+                - generic [ref=e1341]:
+                  - img [ref=e1342]
+                  - paragraph [ref=e1343]: SALE
+                - img [ref=e1344]
+              - link [ref=e1347] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Refreshing-fruit-tray
+                - heading [level=2] [ref=e1348]: Refreshing fruit tray
+              - generic [ref=e1349]:
+                - button [ref=e1350] [cursor=pointer]:
+                  - img [ref=e1351]
+                  - generic [ref=e1352]: Add
+                - generic [ref=e1353]:
+                  - generic [ref=e1354]:
+                    - generic [ref=e1355]: "319"
+                    - generic [ref=e1356]: NIS
+                  - generic [ref=e1357]:
+                    - generic [ref=e1358]: "289"
+                    - generic [ref=e1359]: NIS
+            - generic [ref=e1362]:
+              - link [ref=e1363] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Princess-fruit-tray
+                - img [ref=e1364]
+              - link [ref=e1367] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Princess-fruit-tray
+                - heading [level=2] [ref=e1368]: Princess fruit tray
+              - generic [ref=e1369]:
+                - button [ref=e1370] [cursor=pointer]:
+                  - img [ref=e1371]
+                  - generic [ref=e1372]: Add
+                - generic [ref=e1373]:
+                  - generic [ref=e1374]: "295"
+                  - generic [ref=e1375]: NIS
+            - generic [ref=e1378]:
+              - link [ref=e1379] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Greek-fruit-tray
+                - img [ref=e1380]
+              - link [ref=e1383] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Greek-fruit-tray
+                - heading [level=2] [ref=e1384]: Greek fruit tray
+              - generic [ref=e1385]:
+                - button [ref=e1386] [cursor=pointer]:
+                  - img [ref=e1387]
+                  - generic [ref=e1388]: Add
+                - generic [ref=e1389]:
+                  - generic [ref=e1390]: "289"
+                  - generic [ref=e1391]: NIS
+            - generic [ref=e1394]:
+              - link [ref=e1395] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Nirvana-fruit-tray
+                - img [ref=e1396]
+              - link [ref=e1399] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Nirvana-fruit-tray
+                - heading [level=2] [ref=e1400]: Nirvana fruit tray
+              - generic [ref=e1401]:
+                - button [ref=e1402] [cursor=pointer]:
+                  - img [ref=e1403]
+                  - generic [ref=e1404]: Add
+                - generic [ref=e1405]:
+                  - generic [ref=e1406]: "289"
+                  - generic [ref=e1407]: NIS
+            - generic [ref=e1410]:
+              - link [ref=e1411] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/fruit-tray-Box
+                - img [ref=e1412]
+              - link [ref=e1415] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/fruit-tray-Box
+                - heading [level=2] [ref=e1416]: fruit tray Box
+              - generic [ref=e1417]:
+                - button [ref=e1418] [cursor=pointer]:
+                  - img [ref=e1419]
+                  - generic [ref=e1420]: Add
+                - generic [ref=e1421]:
+                  - generic [ref=e1422]: "289"
+                  - generic [ref=e1423]: NIS
+            - generic [ref=e1426]:
+              - link [ref=e1427] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Hallelujah-fruit-tray
+                - generic [ref=e1429]:
+                  - img [ref=e1430]
+                  - paragraph [ref=e1431]: SALE
+                - img [ref=e1432]
+              - link [ref=e1435] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Hallelujah-fruit-tray
+                - heading [level=2] [ref=e1436]: Hallelujah fruit tray
+              - generic [ref=e1437]:
+                - button [ref=e1438] [cursor=pointer]:
+                  - img [ref=e1439]
+                  - generic [ref=e1440]: Add
+                - generic [ref=e1441]:
+                  - generic [ref=e1442]:
+                    - generic [ref=e1443]: "309"
+                    - generic [ref=e1444]: NIS
+                  - generic [ref=e1445]:
+                    - generic [ref=e1446]: "285"
+                    - generic [ref=e1447]: NIS
+            - generic [ref=e1450]:
+              - link [ref=e1451] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Hearty-fruit-tray
+                - img [ref=e1452]
+              - link [ref=e1455] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Hearty-fruit-tray
+                - heading [level=2] [ref=e1456]: Hearty fruit tray
+              - generic [ref=e1457]:
+                - button [ref=e1458] [cursor=pointer]:
+                  - img [ref=e1459]
+                  - generic [ref=e1460]: Add
+                - generic [ref=e1461]:
+                  - generic [ref=e1462]: "399"
+                  - generic [ref=e1463]: NIS
+            - generic [ref=e1466]:
+              - link [ref=e1467] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Refreshing-fruit-tray
+                - generic [ref=e1469]:
+                  - img [ref=e1470]
+                  - paragraph [ref=e1471]: SALE
+                - img [ref=e1472]
+              - link [ref=e1475] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Refreshing-fruit-tray
+                - heading [level=2] [ref=e1476]: Refreshing fruit tray
+              - generic [ref=e1477]:
+                - button [ref=e1478] [cursor=pointer]:
+                  - img [ref=e1479]
+                  - generic [ref=e1480]: Add
+                - generic [ref=e1481]:
+                  - generic [ref=e1482]:
+                    - generic [ref=e1483]: "319"
+                    - generic [ref=e1484]: NIS
+                  - generic [ref=e1485]:
+                    - generic [ref=e1486]: "289"
+                    - generic [ref=e1487]: NIS
+            - generic [ref=e1490]:
+              - link [ref=e1491] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Princess-fruit-tray
+                - img [ref=e1492]
+              - link [ref=e1495] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Princess-fruit-tray
+                - heading [level=2] [ref=e1496]: Princess fruit tray
+              - generic [ref=e1497]:
+                - button [ref=e1498] [cursor=pointer]:
+                  - img [ref=e1499]
+                  - generic [ref=e1500]: Add
+                - generic [ref=e1501]:
+                  - generic [ref=e1502]: "295"
+                  - generic [ref=e1503]: NIS
+            - generic [ref=e1506]:
+              - link [ref=e1507] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Greek-fruit-tray
+                - img [ref=e1508]
+              - link [ref=e1511] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Greek-fruit-tray
+                - heading [level=2] [ref=e1512]: Greek fruit tray
+              - generic [ref=e1513]:
+                - button [ref=e1514] [cursor=pointer]:
+                  - img [ref=e1515]
+                  - generic [ref=e1516]: Add
+                - generic [ref=e1517]:
+                  - generic [ref=e1518]: "289"
+                  - generic [ref=e1519]: NIS
+            - generic [ref=e1522]:
+              - link [ref=e1523] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Nirvana-fruit-tray
+                - img [ref=e1524]
+              - link [ref=e1527] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/Nirvana-fruit-tray
+                - heading [level=2] [ref=e1528]: Nirvana fruit tray
+              - generic [ref=e1529]:
+                - button [ref=e1530] [cursor=pointer]:
+                  - img [ref=e1531]
+                  - generic [ref=e1532]: Add
+                - generic [ref=e1533]:
+                  - generic [ref=e1534]: "289"
+                  - generic [ref=e1535]: NIS
+            - generic [ref=e1538]:
+              - link [ref=e1539] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/fruit-tray-Box
+                - img [ref=e1540]
+              - link [ref=e1543] [cursor=pointer]:
+                - /url: /%D7%9E%D7%A9%D7%9C%D7%95%D7%97-fruit-sets/fruit-tray-Box
+                - heading [level=2] [ref=e1544]: fruit tray Box
+              - generic [ref=e1545]:
+                - button [ref=e1546] [cursor=pointer]:
+                  - img [ref=e1547]
+                  - generic [ref=e1548]: Add
+                - generic [ref=e1549]:
+                  - generic [ref=e1550]: "289"
+                  - generic [ref=e1551]: NIS
+      - generic [ref=e1552]:
+        - heading [level=2] [ref=e1553]: Popular shops
+        - generic [ref=e1555]:
+          - generic [ref=e1558]:
+            - generic [ref=e1561]:
+              - generic [ref=e1562] [cursor=pointer]: Shipping 0 NIS Discount coupon
+              - img [ref=e1564]
+              - generic [ref=e1565]:
+                - img [ref=e1567]
+                - img [ref=e1569]
+                - img [ref=e1571]
+                - img [ref=e1573]
+              - img [ref=e1575]
+            - generic [ref=e1577]:
+              - generic [ref=e1578]:
+                - generic [ref=e1579]:
+                  - text: "10.0"
+                  - img [ref=e1580]
+                  - link [ref=e1581] [cursor=pointer]:
+                    - /url: /329-sharoni-flowers
+                    - heading [level=2] [ref=e1582]: Sharoni Flowers Netanya
+                - img [ref=e1583]
+              - generic [ref=e1584]:
+                - generic [ref=e1585]:
+                  - generic [ref=e1586]: Delivery 30 NIS
+                  - img [ref=e1587]
+                - generic [ref=e1588]:
+                  - text: 60-240 min
+                  - img [ref=e1589]
+              - link [ref=e1591] [cursor=pointer]:
+                - /url: /329-sharoni-flowers
+                - img [ref=e1592]
+          - generic [ref=e1595]:
+            - generic [ref=e1598]:
+              - generic [ref=e1599] [cursor=pointer]: Shipping 0 NIS Discount coupon
+              - img [ref=e1601]
+              - generic [ref=e1602]:
+                - img [ref=e1604]
+                - img [ref=e1606]
+                - img [ref=e1608]
+                - img [ref=e1610]
+              - img [ref=e1612]
+            - generic [ref=e1614]:
+              - generic [ref=e1615]:
+                - generic [ref=e1616]:
+                  - text: "10.0"
+                  - img [ref=e1617]
+                  - link [ref=e1618] [cursor=pointer]:
+                    - /url: /175-Fruit-Story
+                    - heading [level=2] [ref=e1619]: Fruit Story Beer Sheva
+                - img [ref=e1620]
+              - generic [ref=e1621]:
+                - generic [ref=e1622]:
+                  - generic [ref=e1623]: Delivery 60 NIS
+                  - img [ref=e1624]
+                - generic [ref=e1625]:
+                  - text: 90-260 min
+                  - img [ref=e1626]
+              - link [ref=e1628] [cursor=pointer]:
+                - /url: /175-Fruit-Story
+                - img [ref=e1629]
+          - generic [ref=e1632]:
+            - generic [ref=e1635]:
+              - generic [ref=e1636] [cursor=pointer]: Shipping 0 NIS Discount coupon
+              - img [ref=e1638]
+              - generic [ref=e1639]:
+                - img [ref=e1641]
+                - img [ref=e1643]
+                - img [ref=e1645]
+                - img [ref=e1647]
+              - img [ref=e1649]
+            - generic [ref=e1651]:
+              - generic [ref=e1652]:
+                - generic [ref=e1653]:
+                  - text: "10.0"
+                  - img [ref=e1654]
+                  - link [ref=e1655] [cursor=pointer]:
+                    - /url: /5-Flowers-Lily
+                    - heading [level=2] [ref=e1656]: Flowers Lily Jerusalem
+                - img [ref=e1657]
+              - generic [ref=e1658]:
+                - generic [ref=e1659]:
+                  - generic [ref=e1660]: Delivery 35 NIS
+                  - img [ref=e1661]
+                - generic [ref=e1662]:
+                  - text: 90-220 min
+                  - img [ref=e1663]
+              - link [ref=e1665] [cursor=pointer]:
+                - /url: /5-Flowers-Lily
+                - img [ref=e1666]
+          - generic [ref=e1669]:
+            - generic [ref=e1672]:
+              - img [ref=e1674]
+              - generic [ref=e1675]:
+                - img [ref=e1677]
+                - img [ref=e1679]
+                - img [ref=e1681]
+                - img [ref=e1683]
+              - img [ref=e1685]
+            - generic [ref=e1687]:
+              - generic [ref=e1688]:
+                - generic [ref=e1689]:
+                  - text: "10.0"
+                  - img [ref=e1690]
+                  - link [ref=e1691] [cursor=pointer]:
+                    - /url: /13-Bloom-Rosh-Pina
+                    - heading [level=2] [ref=e1692]: Bloom Rosh Pina
+                - img [ref=e1693]
+              - generic [ref=e1694]:
+                - generic [ref=e1695]:
+                  - generic [ref=e1696]: Delivery 25 NIS
+                  - img [ref=e1697]
+                - generic [ref=e1698]:
+                  - text: 60-120 min
+                  - img [ref=e1699]
+              - link [ref=e1701] [cursor=pointer]:
+                - /url: /13-Bloom-Rosh-Pina
+                - img [ref=e1702]
+          - generic [ref=e1705]:
+            - generic [ref=e1708]:
+              - generic [ref=e1709] [cursor=pointer]: Shipping 0 NIS Discount coupon
+              - img [ref=e1711]
+              - generic [ref=e1712]:
+                - img [ref=e1714]
+                - img [ref=e1716]
+                - img [ref=e1718]
+                - img [ref=e1720]
+              - img [ref=e1722]
+            - generic [ref=e1724]:
+              - generic [ref=e1725]:
+                - generic [ref=e1726]:
+                  - text: "9.9"
+                  - img [ref=e1727]
+                  - link [ref=e1728] [cursor=pointer]:
+                    - /url: /167-Liz-flowers
+                    - heading [level=2] [ref=e1729]: Liz flowers
+                - img [ref=e1730]
+              - generic [ref=e1731]:
+                - generic [ref=e1732]:
+                  - generic [ref=e1733]: Delivery 33 NIS
+                  - img [ref=e1734]
+                - generic [ref=e1735]:
+                  - text: 60-180 min
+                  - img [ref=e1736]
+              - link [ref=e1738] [cursor=pointer]:
+                - /url: /167-Liz-flowers
+                - img [ref=e1739]
+          - generic [ref=e1742]:
+            - generic [ref=e1745]:
+              - generic [ref=e1746] [cursor=pointer]: Shipping 0 NIS Discount coupon
+              - img [ref=e1748]
+              - generic [ref=e1749]:
+                - img [ref=e1751]
+                - img [ref=e1753]
+                - img [ref=e1755]
+                - img [ref=e1757]
+              - img [ref=e1759]
+            - generic [ref=e1761]:
+              - generic [ref=e1762]:
+                - generic [ref=e1763]:
+                  - text: "9.8"
+                  - img [ref=e1764]
+                  - link [ref=e1765] [cursor=pointer]:
+                    - /url: /410-yael-sweets
+                    - heading [level=2] [ref=e1766]: Yael Sweets Yavne
+                - img [ref=e1767]
+              - generic [ref=e1768]:
+                - generic [ref=e1769]:
+                  - generic [ref=e1770]: Delivery 35 NIS
+                  - img [ref=e1771]
+                - generic [ref=e1772]:
+                  - text: 120-230 min
+                  - img [ref=e1773]
+              - link [ref=e1775] [cursor=pointer]:
+                - /url: /410-yael-sweets
+                - img [ref=e1776]
+          - generic [ref=e1779]:
+            - generic [ref=e1782]:
+              - img [ref=e1784]
+              - generic [ref=e1785]:
+                - img [ref=e1787]
+                - img [ref=e1789]
+                - img [ref=e1791]
+                - img [ref=e1793]
+              - img [ref=e1795]
+            - generic [ref=e1797]:
+              - generic [ref=e1798]:
+                - generic [ref=e1799]:
+                  - text: "9.9"
+                  - img [ref=e1800]
+                  - link [ref=e1801] [cursor=pointer]:
+                    - /url: /32-Pinat-Haperach
+                    - heading [level=2] [ref=e1802]: Pinat Haperach Nahariya
+                - img [ref=e1803]
+              - generic [ref=e1804]:
+                - generic [ref=e1805]:
+                  - generic [ref=e1806]: Delivery 65 NIS
+                  - img [ref=e1807]
+                - generic [ref=e1808]:
+                  - text: 90-180 min
+                  - img [ref=e1809]
+              - link [ref=e1811] [cursor=pointer]:
+                - /url: /32-Pinat-Haperach
+                - img [ref=e1812]
+          - generic [ref=e1815]:
+            - generic [ref=e1818]:
+              - generic [ref=e1819] [cursor=pointer]: Shipping 0 NIS Discount coupon
+              - img [ref=e1821]
+              - generic [ref=e1822]:
+                - img [ref=e1824]
+                - img [ref=e1826]
+                - img [ref=e1828]
+                - img [ref=e1830]
+              - img [ref=e1832]
+            - generic [ref=e1834]:
+              - generic [ref=e1835]:
+                - generic [ref=e1836]:
+                  - text: "9.6"
+                  - img [ref=e1837]
+                  - link [ref=e1838] [cursor=pointer]:
+                    - /url: /216-la-flor
+                    - heading [level=2] [ref=e1839]: La Flor Zichron Yaakov
+                - img [ref=e1840]
+              - generic [ref=e1841]:
+                - generic [ref=e1842]:
+                  - generic [ref=e1843]: Delivery 25 NIS
+                  - img [ref=e1844]
+                - generic [ref=e1845]:
+                  - text: 60-180 min
+                  - img [ref=e1846]
+              - link [ref=e1848] [cursor=pointer]:
+                - /url: /216-la-flor
+                - img [ref=e1849]
+          - generic [ref=e1852]:
+            - generic [ref=e1855]:
+              - img [ref=e1857]
+              - generic [ref=e1858]:
+                - img [ref=e1860]
+                - img [ref=e1862]
+                - img [ref=e1864]
+                - img [ref=e1866]
+              - img [ref=e1868]
+            - generic [ref=e1870]:
+              - generic [ref=e1871]:
+                - generic [ref=e1872]:
+                  - text: "10.0"
+                  - img [ref=e1873]
+                  - link [ref=e1874] [cursor=pointer]:
+                    - /url: /142-Makor-Haperah
+                    - heading [level=2] [ref=e1875]: Makor Haperah Kiryat Shmona
+                - img [ref=e1876]
+              - generic [ref=e1877]:
+                - generic [ref=e1878]:
+                  - generic [ref=e1879]: Delivery 35 NIS
+                  - img [ref=e1880]
+                - generic [ref=e1881]:
+                  - text: 90-220 min
+                  - img [ref=e1882]
+              - link [ref=e1884] [cursor=pointer]:
+                - /url: /142-Makor-Haperah
+                - img [ref=e1885]
+          - generic [ref=e1888]:
+            - generic [ref=e1891]:
+              - generic [ref=e1892] [cursor=pointer]: Shipping 0 NIS Discount coupon
+              - img [ref=e1894]
+              - generic [ref=e1895]:
+                - img [ref=e1897]
+                - img [ref=e1899]
+                - img [ref=e1901]
+                - img [ref=e1903]
+              - img [ref=e1905]
+            - generic [ref=e1907]:
+              - generic [ref=e1908]:
+                - generic [ref=e1909]:
+                  - text: "10.0"
+                  - img [ref=e1910]
+                  - link [ref=e1911] [cursor=pointer]:
+                    - /url: /73-Efat-Flowers
+                    - heading [level=2] [ref=e1912]: Efat Flowers
+                - img [ref=e1913]
+              - generic [ref=e1914]:
+                - generic [ref=e1915]:
+                  - generic [ref=e1916]: Delivery 35 NIS
+                  - img [ref=e1917]
+                - generic [ref=e1918]:
+                  - text: 60-230 min
+                  - img [ref=e1919]
+              - link [ref=e1921] [cursor=pointer]:
+                - /url: /73-Efat-Flowers
+                - img [ref=e1922]
+          - generic [ref=e1925]:
+            - generic [ref=e1928]:
+              - generic [ref=e1929] [cursor=pointer]: Shipping 0 NIS Discount coupon
+              - img [ref=e1931]
+              - generic [ref=e1932]:
+                - img [ref=e1934]
+                - img [ref=e1936]
+                - img [ref=e1938]
+                - img [ref=e1940]
+              - img [ref=e1942]
+            - generic [ref=e1944]:
+              - generic [ref=e1945]:
+                - generic [ref=e1946]:
+                  - text: "10.0"
+                  - img [ref=e1947]
+                  - link [ref=e1948] [cursor=pointer]:
+                    - /url: /329-sharoni-flowers
+                    - heading [level=2] [ref=e1949]: Sharoni Flowers Netanya
+                - img [ref=e1950]
+              - generic [ref=e1951]:
+                - generic [ref=e1952]:
+                  - generic [ref=e1953]: Delivery 30 NIS
+                  - img [ref=e1954]
+                - generic [ref=e1955]:
+                  - text: 60-240 min
+                  - img [ref=e1956]
+              - link [ref=e1958] [cursor=pointer]:
+                - /url: /329-sharoni-flowers
+                - img [ref=e1959]
+          - generic [ref=e1962]:
+            - generic [ref=e1965]:
+              - generic [ref=e1966] [cursor=pointer]: Shipping 0 NIS Discount coupon
+              - img [ref=e1968]
+              - generic [ref=e1969]:
+                - img [ref=e1971]
+                - img [ref=e1973]
+                - img [ref=e1975]
+                - img [ref=e1977]
+              - img [ref=e1979]
+            - generic [ref=e1981]:
+              - generic [ref=e1982]:
+                - generic [ref=e1983]:
+                  - text: "10.0"
+                  - img [ref=e1984]
+                  - link [ref=e1985] [cursor=pointer]:
+                    - /url: /175-Fruit-Story
+                    - heading [level=2] [ref=e1986]: Fruit Story Beer Sheva
+                - img [ref=e1987]
+              - generic [ref=e1988]:
+                - generic [ref=e1989]:
+                  - generic [ref=e1990]: Delivery 60 NIS
+                  - img [ref=e1991]
+                - generic [ref=e1992]:
+                  - text: 90-260 min
+                  - img [ref=e1993]
+              - link [ref=e1995] [cursor=pointer]:
+                - /url: /175-Fruit-Story
+                - img [ref=e1996]
+          - generic [ref=e1999]:
+            - generic [ref=e2002]:
+              - generic [ref=e2003] [cursor=pointer]: Shipping 0 NIS Discount coupon
+              - img [ref=e2005]
+              - generic [ref=e2006]:
+                - img [ref=e2008]
+                - img [ref=e2010]
+                - img [ref=e2012]
+                - img [ref=e2014]
+              - img [ref=e2016]
+            - generic [ref=e2018]:
+              - generic [ref=e2019]:
+                - generic [ref=e2020]:
+                  - text: "10.0"
+                  - img [ref=e2021]
+                  - link [ref=e2022] [cursor=pointer]:
+                    - /url: /5-Flowers-Lily
+                    - heading [level=2] [ref=e2023]: Flowers Lily Jerusalem
+                - img [ref=e2024]
+              - generic [ref=e2025]:
+                - generic [ref=e2026]:
+                  - generic [ref=e2027]: Delivery 35 NIS
+                  - img [ref=e2028]
+                - generic [ref=e2029]:
+                  - text: 90-220 min
+                  - img [ref=e2030]
+              - link [ref=e2032] [cursor=pointer]:
+                - /url: /5-Flowers-Lily
+                - img [ref=e2033]
+          - generic [ref=e2036]:
+            - generic [ref=e2039]:
+              - img [ref=e2041]
+              - generic [ref=e2042]:
+                - img [ref=e2044]
+                - img [ref=e2046]
+                - img [ref=e2048]
+                - img [ref=e2050]
+              - img [ref=e2052]
+            - generic [ref=e2054]:
+              - generic [ref=e2055]:
+                - generic [ref=e2056]:
+                  - text: "10.0"
+                  - img [ref=e2057]
+                  - link [ref=e2058] [cursor=pointer]:
+                    - /url: /13-Bloom-Rosh-Pina
+                    - heading [level=2] [ref=e2059]: Bloom Rosh Pina
+                - img [ref=e2060]
+              - generic [ref=e2061]:
+                - generic [ref=e2062]:
+                  - generic [ref=e2063]: Delivery 25 NIS
+                  - img [ref=e2064]
+                - generic [ref=e2065]:
+                  - text: 60-120 min
+                  - img [ref=e2066]
+              - link [ref=e2068] [cursor=pointer]:
+                - /url: /13-Bloom-Rosh-Pina
+                - img [ref=e2069]
+      - heading [level=2] [ref=e2070]: Want to indulge with a perfect gift?
+      - generic [ref=e2072]:
+        - generic [ref=e2073]:
+          - link [ref=e2075] [cursor=pointer]:
+            - /url: /wreaths-to-the-head
+            - img [ref=e2076]
+          - link [ref=e2077] [cursor=pointer]:
+            - /url: /wreaths-to-the-head
+            - text: Wreaths to the head
+          - paragraph [ref=e2078]: For the most exciting event in life, a wreath for the bride or for a birthday
+          - link [ref=e2079] [cursor=pointer]:
+            - /url: /wreaths-to-the-head
+            - img [ref=e2080]
+        - generic [ref=e2081]:
+          - link [ref=e2083] [cursor=pointer]:
+            - /url: /garlands-of-balloons
+            - img [ref=e2084]
+          - link [ref=e2085] [cursor=pointer]:
+            - /url: /garlands-of-balloons
+            - text: Balloons
+          - paragraph [ref=e2086]: A selection of colorful balloons for every birthday party. Add magic and excitement to the celebration
+          - link [ref=e2087] [cursor=pointer]:
+            - /url: /garlands-of-balloons
+            - img [ref=e2088]
+        - generic [ref=e2089]:
+          - link [ref=e2091] [cursor=pointer]:
+            - /url: /Wedding
+            - img [ref=e2092]
+          - link [ref=e2093] [cursor=pointer]:
+            - /url: /Wedding
+            - text: Wedding
+          - paragraph [ref=e2094]: Bridal wreaths, car decoration, wreaths for the head. Everything to make your business perfect.
+          - link [ref=e2095] [cursor=pointer]:
+            - /url: /Wedding
+            - img [ref=e2096]
+      - generic [ref=e2098]:
+        - generic [ref=e2099]:
+          - img [ref=e2100]
+          - heading [level=2] [ref=e2101]: Israel Flowers delivery - Florist in Israel
+        - generic [ref=e2102]:
+          - paragraph [ref=e2103]: At Hashve, we have developed a platform for ordering same-day flower delivery across the country from flower shops located not far from the delivery location. With us you will receive favorable offers and price offers, fast delivery and professional service.
+          - heading [level=2] [ref=e2104]: A large selection of fresh flowers
+          - paragraph [ref=e2105]: "At Hashve.co.il, you’ll find a wide range of flowers for every occasion: Fresh flower bouquets, stunning floral arrangements, potted plants and orchids, gourmet chocolate boxes, fine wines, impressive balloons, fruit platters, and more. Everything you need to surprise and delight your loved ones!"
+          - heading [level=2] [ref=e2106]:
+            - strong [ref=e2107]: Why choose Hashve?
+          - paragraph [ref=e2108]: A smart platform for ordering directly from local businesses across the country. At Hashve, you’ll enjoy a simple and convenient shopping experience. Each product is offered by local shops nationwide, with prices set directly by the suppliers – ensuring the most attractive deals for you. This way, you can place an order in the smartest and most cost-effective way.
+          - heading [level=3] [ref=e2109]:
+            - strong [ref=e2110]: Easy and convenient online ordering
+          - paragraph [ref=e2111]: Quick ordering on the website with the ability to track the order and delivery status – a perfect shopping experience.
+          - heading [level=3] [ref=e2112]:
+            - strong [ref=e2113]: Same-day delivery nationwide
+          - paragraph [ref=e2114]: Thanks to our collaboration with local shops throughout Israel, we offer fast flower deliveries at affordable prices to any address.
+          - heading [level=2] [ref=e2115]:
+            - strong [ref=e2116]: Supporting Israeli businesses
+          - paragraph [ref=e2117]: Every order through Hashve supports local shops and Israeli business owners – so you're pampering your loved ones while also contributing to the local economy.
+          - heading [level=3] [ref=e2118]:
+            - strong [ref=e2119]: Flower deliveries for every occasion
+          - paragraph [ref=e2120]: Looking for a special flowers for a birthday, anniversary, new baby, holiday, or any other event? On Hashve.co.il, you’ll find the perfect Bouquets that will arrive quickly and leave a lasting impression of joy and emotion.
+    - link [ref=e2121] [cursor=pointer]:
+      - /url: https://wa.me/972585024853
+    - generic [ref=e2123]:
+      - generic [ref=e2124]:
+        - generic [ref=e2125]:
+          - generic [ref=e2127]:
+            - paragraph [ref=e2128]: Subscribe to the newsletter and enjoy benefits and promotions
+            - generic [ref=e2129]:
+              - button [ref=e2130] [cursor=pointer]: Suits me
+              - textbox [ref=e2131]:
+                - /placeholder: Your email
+          - generic [ref=e2132]:
+            - link [ref=e2133] [cursor=pointer]:
+              - /url: https://hashve.co.il/
+              - img [ref=e2134]
+              - text: HEB
+            - link [ref=e2135] [cursor=pointer]:
+              - /url: "#top"
+              - img [ref=e2136]
+        - list [ref=e2137]:
+          - generic [ref=e2138] [cursor=pointer]:
+            - paragraph [ref=e2139]: Info
+            - link [ref=e2140]:
+              - /url: terms-of-use
+              - text: Terms of use
+            - link [ref=e2141]:
+              - /url: /privacy-policy
+              - text: Privacy Policy
+            - link [ref=e2142]:
+              - /url: /customer-club-terms
+              - text: Customer Club Terms
+            - listitem [ref=e2143]: About us
+            - listitem [ref=e2144]: Delivery Cities
+          - generic [ref=e2145] [cursor=pointer]:
+            - paragraph [ref=e2146]: Popular search
+            - link [ref=e2147]:
+              - /url: /bouquets
+              - text: Flowers
+            - link [ref=e2148]:
+              - /url: /fruit-sets
+              - text: Fruit sets
+            - link [ref=e2149]:
+              - /url: /pots-and-orchids
+              - text: Pots and orchids
+            - link [ref=e2150]:
+              - /url: /gifts-for-new-moms
+              - text: Gifts for new moms
+            - link [ref=e2151]:
+              - /url: /blog
+              - text: Blog
+          - generic [ref=e2152] [cursor=pointer]:
+            - paragraph [ref=e2153]: Earn with us
+            - link [ref=e2154]:
+              - /url: /sign-up
+              - text: Gifts for Employees
+            - link [ref=e2155]:
+              - /url: /joining-business
+              - text: Join Us
+            - listitem [ref=e2156]: Sales promotion for businesses
+            - link [ref=e2157]:
+              - /url: /customers-club
+              - text: Customers Club
+            - listitem [ref=e2158]: Entry of suppliers
+          - generic [ref=e2159] [cursor=pointer]:
+            - paragraph [ref=e2160]: Customer Service
+            - listitem [ref=e2161]: Contact us
+            - listitem [ref=e2162]: Talk to us on WhatsApp
+            - listitem [ref=e2163]: F&Q
+            - generic [ref=e2164]:
+              - link [ref=e2167]:
+                - /url: https://wa.me/972585024853
+                - img [ref=e2168]
+              - link [ref=e2171]:
+                - /url: /
+                - img [ref=e2172]
+              - link [ref=e2175]:
+                - /url: https://www.facebook.com/hashve
+                - img [ref=e2176]
+      - generic [ref=e2177]:
+        - img [ref=e2178]
+        - paragraph [ref=e2179]: Purchases on the site are secured with the global PCI standard
+        - paragraph [ref=e2180]:
+          - text: All rights reserved to the company
+          - link [ref=e2181] [cursor=pointer]:
+            - /url: https://kora.co.il/
+            - text: Kora Digital Ltd.
+    - generic [ref=e2183]:
+      - button [ref=e2184] [cursor=pointer]: ×
+      - button [ref=e2186] [cursor=pointer]: Approve
+      - generic [ref=e2187]:
+        - generic [ref=e2189]: We respect your privacy.
+        - generic [ref=e2191]:
+          - text: This site uses cookies for proper and regular operation in accordance with the
+          - link [ref=e2192] [cursor=pointer]:
+            - /url: /privacy-policy
+            - text: privacy policy
+  - dialog
+  - dialog:
+    - button:
+      - generic: ESC
+  - generic [ref=e2193]:
+    - note [ref=e2194]: You can use the keyboard arrows to navigate between the component buttons
+    - button [ref=e2195] [cursor=pointer]:
+      - img [ref=e2196]
+      - generic: ESC
+    - toolbar [ref=e2205]:
+      - menuitem [ref=e2206]:
+        - button [ref=e2207] [cursor=pointer]:
+          - generic: Keyboard Nav
+          - generic: Shift+A
+      - menuitem [ref=e2208]:
+        - button [ref=e2209] [cursor=pointer]:
+          - generic: Stop Blinks
+          - generic: Shift+B
+      - menuitem [ref=e2210]:
+        - button [ref=e2211] [cursor=pointer]:
+          - generic: Monochrome
+          - generic: Shift+C
+      - menuitem [ref=e2212]:
+        - button [ref=e2213] [cursor=pointer]:
+          - generic: Sepia
+          - generic: Shift+D
+      - menuitem [ref=e2214]:
+        - button [ref=e2215] [cursor=pointer]:
+          - generic: High Contrast
+          - generic: Shift+E
+      - menuitem [ref=e2216]:
+        - button [ref=e2217] [cursor=pointer]:
+          - generic: Black & Yellow
+          - generic: Shift+F
+      - menuitem [ref=e2218]:
+        - button [ref=e2219] [cursor=pointer]:
+          - generic: Invert
+          - generic: Shift+G
+      - menuitem [ref=e2220]:
+        - button [ref=e2221] [cursor=pointer]:
+          - generic: Highlights Titles
+          - generic: Shift+H
+      - menuitem [ref=e2222]:
+        - button [ref=e2223] [cursor=pointer]:
+          - generic: Highlights Links
+          - generic: Shift+I
+      - menuitem [ref=e2224]:
+        - button [ref=e2225] [cursor=pointer]:
+          - generic: Tooltip
+          - generic: Shift+J
+      - menuitem [ref=e2226]:
+        - button [ref=e2227] [cursor=pointer]:
+          - generic: Tooltip Visible
+          - generic: Shift+K
+      - menuitem [ref=e2228]:
+        - button [ref=e2229] [cursor=pointer]:
+          - generic: Readable Fonts
+          - generic: Shift+L
+      - menuitem [ref=e2230]:
+        - button [ref=e2231] [cursor=pointer]:
+          - generic: Increase Font
+          - generic: Shift+M
+      - menuitem [ref=e2232]:
+        - button [ref=e2233] [cursor=pointer]:
+          - generic: Decrease Font
+          - generic: Shift+N
+      - menuitem [ref=e2234]:
+        - button [ref=e2235] [cursor=pointer]:
+          - generic: Zoom Increase
+          - generic: Shift++
+      - menuitem [ref=e2236]:
+        - button [ref=e2237] [cursor=pointer]:
+          - generic: Zoom Decrease
+          - generic: Shift+P
+      - menuitem [ref=e2238]:
+        - button [ref=e2239] [cursor=pointer]:
+          - generic: White Cursor
+          - generic: Shift+Q
+      - menuitem [ref=e2240]:
+        - button [ref=e2241] [cursor=pointer]:
+          - generic: Black Cursor
+          - generic: Shift+R
+      - menuitem [ref=e2242]:
+        - button [ref=e2243] [cursor=pointer]:
+          - generic: Reader View
+          - generic: Shift+W
+    - generic [ref=e2244]:
+      - link [ref=e2245] [cursor=pointer]:
+        - /url: https://www.enable.co.il
+      - generic [ref=e2246]:
+        - button [ref=e2247] [cursor=pointer]:
+          - text: Reset
+          - generic: Alt+P
+        - button [ref=e2249] [cursor=pointer]:
+          - text: Statement
+          - generic: Alt+Q
+        - button [ref=e2251] [cursor=pointer]:
+          - text: Report us
+          - generic: Alt+R
+      - generic [ref=e2254]:
+        - button [ref=e2255] [cursor=pointer]
+        - button [ref=e2256] [cursor=pointer]
+      - link [ref=e2258] [cursor=pointer]:
+        - /url: https://www.upress.co.il
+        - text: Powered by
+        - img [ref=e2259]
+  - alert
+  - dialog [active] [ref=e2266]:
+    - generic [ref=e2269]:
+      - img [ref=e2270] [cursor=pointer]
+      - generic [ref=e2271]:
+        - generic [ref=e2272]:
+          - generic [ref=e2273]: "7"
+          - generic [ref=e2274]:
+            - generic [ref=e2275]: "%"
+            - generic [ref=e2276]: "OFF"
+        - generic [ref=e2277]: On your first order
+      - heading "Join our journey, sign up and get 7% off on your first order." [level=1] [ref=e2278]
+      - generic [ref=e2279]:
+        - textbox "Full Name*" [ref=e2282]
+        - generic [ref=e2283]:
+          - textbox "Mobile Phone*" [ref=e2285]
+          - textbox [ref=e2286]: "+1"
+        - textbox "Email*" [ref=e2290]
+        - button "Sing Up" [ref=e2292] [cursor=pointer]
+        - generic [ref=e2294]:
+          - generic [ref=e2295] [cursor=pointer]:
+            - checkbox "I agree to receive mailings about promotions from Hashve website and I agree to the privacy policy, website terms and customer club terms" [ref=e2297]
+            - generic:
+              - img
+          - generic [ref=e2300] [cursor=pointer]:
+            - text: I agree to receive mailings about promotions from Hashve website and I agree to the
+            - link "privacy policy" [ref=e2301]:
+              - /url: /privacy-policy
+            - text: ","
+            - link "website terms" [ref=e2302]:
+              - /url: /terms-of-use
+            - link "and customer club terms" [ref=e2303]:
+              - /url: /customer-club-terms
+        - generic [ref=e2304]: "*The benefit will be given for the cost of the products only, excluding shipping fees."
+```

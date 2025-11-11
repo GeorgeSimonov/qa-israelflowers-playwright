@@ -1,0 +1,5 @@
+node_modules
+artifacts/reports
+artifacts/videos
+artifacts/screenshots
+*.log
